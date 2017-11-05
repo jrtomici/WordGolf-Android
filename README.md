@@ -2,7 +2,7 @@
 ======
 **App Name** is an app for ... *Add Short description here.*
 
-#### Screenshot
+#### Screenshots
 [![Screenshot Android Example](https://user-images.githubusercontent.com/7291878/32418145-51215bfe-c232-11e7-83fd-e7b802c1cfec.png)](https://user-images.githubusercontent.com/7291878/32418145-51215bfe-c232-11e7-83fd-e7b802c1cfec.png)
   * *(Add app screenshots here)*
 
