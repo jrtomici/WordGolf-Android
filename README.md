@@ -3,7 +3,7 @@
 **App Name** is an app for ... *Add Short description here.*
 
 #### Screenshot
-![Screenshot Android Example](https://user-images.githubusercontent.com/7291878/32418038-9589b7ac-c230-11e7-8949-51708564170f.png) *(Add app screenshots here)*
+![Screenshot Android Example](https://user-images.githubusercontent.com/7291878/32418145-51215bfe-c232-11e7-83fd-e7b802c1cfec.png) *(Add app screenshots here)*
 
 #### App Stores *(add this section if deploy to Google Play store only)*
 <!-- edit this image location -->
