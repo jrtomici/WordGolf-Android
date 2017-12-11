@@ -25,6 +25,7 @@ public class ContestActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(ContestActivity.this, SetupActivity.class));
+                //back brings you to main menu
                 finish();
             }
         });
