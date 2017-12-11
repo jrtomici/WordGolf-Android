@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">WordGolf</string>
+    <string name="play_button">Play</string>
+    <string name="contest_button">Contest</string>
+    <string name="how_button">How to Play</string>
+    <string name="about_button">About</string>
+    <string name="test">TEST</string>
+    <string name="num_letters">Number of letters:</string>
+    <string name="start_word">Starting word:</string>
+    <string name="start_word_hint">Enter starting word</string>
+    <string name="goal_word">Goal word:</string>
+    <string name="goal_word_hint">Enter goal word</string>
+    <string name="begin_game">Begin!</string>
+    <string name="next_word">Change one letter or scramble word</string>
+    <string-array name="num_array">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string name="length_error">Word length incorrect</string>
+    <string name="legal_error">Word doesn\'t exist</string>
+    <string name="same_error">Words are the same</string>
+    <string name="letter_error">More than one letter changed</string>
+    <string name="on_back_button_title">Warning</string>
+    <string name="on_back_button_message">Are you sure you want to end this game?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="score">Score: </string>
+    <string name="how_1">\tWord Golf (more commonly known as Word Ladder) is a game invented by English writer Lewis Carroll. The objective is to change a word into another by changing one letter at a time, and ensuring that each iteration is a real word.</string>
+    <string name="how_2">\tBefore playing, choose the length of the words you\'ll be using. Then, enter the starting word and the goal word.</string>
+    <string name="how_3">\tDuring main gameplay, enter words that are one letter different from your current word. You can also scramble your word (i.e. pale -> leap). Go for a low amount of moves, or go for a fast time!</string>
+    <string name="about">Version 1.0\n\nDeveloped by John Tomici\njrtomici@gmail.com</string>
+    <string name="contest">You can compete with friends in WordGolf. Decide on a start and goal word, hit "begin" at the same time, and compare scores/times!</string>
+    <string name="okay_button">Okay!</string>
+
+</resources>
