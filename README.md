@@ -1,38 +1,29 @@
-*App Name* as Headline
+*WordGolf*
 ======
-**App Name** is an app for ... *Add Short description here.*
+**WordGolf** (more commonly known as Word Ladder) is a game invented by English writer Lewis Carroll. The objective is to change a word into another by changing one letter at a time, and ensuring that each iteration is a real word.
 
 #### Screenshots
-[![Screenshot Android Example](https://user-images.githubusercontent.com/7291878/32418145-51215bfe-c232-11e7-83fd-e7b802c1cfec.png)](https://user-images.githubusercontent.com/7291878/32418145-51215bfe-c232-11e7-83fd-e7b802c1cfec.png)
-  * *(Add app screenshots here)*
-
-#### App Stores *(add this section if deploy to Google Play store only)*
-<!-- edit this image location -->
-[![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps)
+[![Screenshot Android Example](https://github.com/CSC-285-Fall-2017/FinalProject-jrtomici/blob/master/app/src/main/res/drawable/game.png)](https://github.com/CSC-285-Fall-2017/FinalProject-jrtomici/blob/master/app/src/main/res/drawable/game.png)
 
 ## Tests
 #### Works on
 * *Devices it works with* 
-  * Only add phone models and API versions used for testing
-  * Example: Nexus 6P API 23
+  * Nexus 4 API 21
 
 ## Contributors
 #### Artwork
-* Any credit to artists(music,images,...) - **must add sources here**
+* Logo designed by John Tomici
 
-#### Code
-* Code incorporated from other sources other than your own - **must add sources here**
-
-## Permissions
-* Any permissions needed by the app
+#### Music
+* Music composed by John Tomici
 
 ## Version 
-* Version *X.Y*
+* Version 1.0
 
 ## Project Setup
 #### Android Version Targeting
-* This app is currently built to run on *Android API ##*
-* The minimun SDK support is *API ##* 
+* This app is currently built to run on Android API 21
+* The minimum SDK support is API 19
 
 #### Getting Started
 * This project has been created using Android Studio and the Gradle build system 
@@ -41,4 +32,4 @@
 
 ## Contact
 #### Developer
-* e-mail: *your email address*
+* e-mail: jrtomici@gmail.com
