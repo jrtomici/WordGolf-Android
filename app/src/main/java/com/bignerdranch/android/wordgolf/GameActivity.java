@@ -11,6 +11,8 @@ import android.widget.CompoundButton;
 import android.widget.RelativeLayout;
 import android.widget.Switch;
 
+import java.io.IOException;
+
 /**
  * Created by johntomici on 12/8/17.
  */
